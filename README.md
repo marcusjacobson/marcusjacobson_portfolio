@@ -12,6 +12,6 @@ My current goals for improving my skills include:
 This portfolio is intended to provide visibility into the development of my personal skills, including:
 * [Current Industry Certifications](https://github.com/marcusjacobson/marcusjacobson_portfolio/wiki/Certification-List)
 * [Continuing Education Efforts, including a roadmap of the certifications I am working on](https://github.com/users/marcusjacobson/projects/2)
-* Projects & Labs (TBD)
+* Personal Projects & Labs (TBD)
 
 
