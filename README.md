@@ -16,6 +16,7 @@ This portfolio is intended to provide visibility into the development of my prof
 * [Continuing Education Efforts, including a roadmap of the certifications I am working on](https://github.com/users/marcusjacobson/projects/2)
 
 ## Projects
+* [Cloud Resume Challenge](https://github.com/marcusjacobson/cloud-resume-challenge).
 * [AWS Basic Labs](https://github.com/marcusjacobson/IAM-Basic-Labs)
 
 
