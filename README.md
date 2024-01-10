@@ -9,7 +9,7 @@ My current goals for improving my skills include:
 * Become a well-rounded Cloud professional, gaining experience and certifications in AWS, Microsoft, and Google cloud administration and architecture
 * Gain certification and experience with Cloud Security
 
-This portfolio is intended to provide visibility into the development of my professional development and learning
+This portfolio is intended to provide visibility into personal projects I am working on relating to my professional development and learning path.
 
 ## Certifications and Continuing Education
 * [Current Industry Certifications](https://github.com/marcusjacobson/marcusjacobson_portfolio/wiki/Certification-List)
